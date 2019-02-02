@@ -1,0 +1,47 @@
+
+* Program 1
+* cs310
+* 7/30/18
+* @author Youssef Iraqi, Brian Rafferty 
+
+
+ Heap Priority Test:
+ 
+
+Elapsed offer time with an array size of 50000:  45.075ms
+Elapsed offer time with an array size of 100000:  15.374ms
+Elapsed offer time with an array size of 200000:  17.425ms
+
+
+Elapsed poll time with an array size of 50000:  72.899ms
+Elapsed poll time with an array size of 100000:  143.273ms
+Elapsed poll time with an array size of 200000:  179.097ms
+
+
+ Array Priority Queue  Test: 
+ 
+
+Elapsed offer time with an array size of 50000:  158.256ms
+Elapsed offer time with an array size of 100000:  658.08ms
+Elapsed offer time with an array size of 200000:  2952.41ms
+
+
+Elapsed poll time with an array size of 50000:  7.508ms
+Elapsed poll time with an array size of 100000:  2.881ms
+Elapsed poll time with an array size of 200000:  5.802ms
+
+
+ Unordered priority Queue Test: 
+ 
+
+Elapsed offer time with an array size of 50000:  6.421ms
+Elapsed offer time with an array size of 100000:  4.026ms
+Elapsed offer time with an array size of 200000:  19.952ms
+
+
+Elapsed poll time with an array size of 50000:  3846.608ms
+Elapsed poll time with an array size of 100000:  15214.572ms
+Elapsed poll time with an array size of 200000:  116453.438ms
+
+Complete!
+
